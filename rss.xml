@@ -4,8 +4,15 @@
         <description><![CDATA[Cryptech Blog]]></description>
         <link>https://thegrid.ai/cryptech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 04:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 04:12:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cryptech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3つ目の最初の投稿]]></title>
+            <description><![CDATA[<article><h1>3つ目の最初の投稿</h1><p>まだ使い方が慣れないですが、慣れるともしかしたら非常に便利かも。</p></article>]]></description>
+            <link>https://thegrid.ai/cryptech/3/index.html</link>
+            <guid isPermaLink="false">ee886b94-d495-4a15-9c26-105f3002ae6c</guid>
+            <pubDate>Sun, 06 Mar 2016 04:11:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gridの初期コンテンツ]]></title>
             <description><![CDATA[<article><h1>Gridの初期コンテンツ</h1><p>Gridで見栄えを整えるためには、テキスト写真でもいいので、まず最初に最低3つのコンテンツを投稿すると良いとさり気なく書かれている。</p></article>]]></description>
