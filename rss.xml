@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cryptech]]></title>
-        <description><![CDATA[Cryptech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cryptech Blog]]></title>
+        <description><![CDATA[Cryptech Blog]]></description>
+        <link>https://thegrid.ai/cryptech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:36:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 03:58:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cryptech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Gridの</p>]]></description>
+            <link>https://thegrid.ai/cryptech/83a5b7dc-5f4f-431d-9c00-d7162e841e8d/index.html</link>
+            <guid isPermaLink="false">83a5b7dc-5f4f-431d-9c00-d7162e841e8d</guid>
+            <pubDate>Sun, 06 Mar 2016 03:57:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Grid Beta Account is Activated</p>]]></description>
-            <link>undefined17839aec-5daa-4d6b-ae9a-424d98b558f5/index.html</link>
+            <link>https://thegrid.ai/cryptech/17839aec-5daa-4d6b-ae9a-424d98b558f5/index.html</link>
             <guid isPermaLink="false">17839aec-5daa-4d6b-ae9a-424d98b558f5</guid>
             <pubDate>Fri, 04 Mar 2016 21:36:03 GMT</pubDate>
         </item>
