@@ -4,21 +4,21 @@
         <description><![CDATA[Cryptech Blog]]></description>
         <link>https://thegrid.ai/cryptech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 04:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 04:05:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cryptech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gridの初期コンテンツ]]></title>
-            <description><![CDATA[<h1>Gridの初期コンテンツ</h1>]]></description>
+            <description><![CDATA[<article><h1>Gridの初期コンテンツ</h1><p>Gridで見栄えを整えるためには、テキスト写真でもいいので、まず最初に最低3つのコンテンツを投稿すると良いとさり気なく書かれている。</p></article>]]></description>
             <link>https://thegrid.ai/cryptech/grid/index.html</link>
             <guid isPermaLink="false">751163ad-05d5-42b8-bcf4-efda71188f83</guid>
             <pubDate>Sun, 06 Mar 2016 04:01:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Grid Beta Account is Activated</p>]]></description>
+            <title><![CDATA[Grid Beta Account is Activated]]></title>
+            <description><![CDATA[<article><h1>Grid Beta Account is Activated</h1><p>Gridのactivationを受け取りました！</p></article>]]></description>
             <link>https://thegrid.ai/cryptech/17839aec-5daa-4d6b-ae9a-424d98b558f5/index.html</link>
             <guid isPermaLink="false">17839aec-5daa-4d6b-ae9a-424d98b558f5</guid>
-            <pubDate>Fri, 04 Mar 2016 21:36:03 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 04:04:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
