@@ -4,8 +4,15 @@
         <description><![CDATA[Cryptech Blog]]></description>
         <link>https://thegrid.ai/cryptech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 04:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 04:59:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cryptech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[さらに追加]]></title>
+            <description><![CDATA[<article><h1>さらに追加</h1><p>どうも色々中途半端にしか変更が反映されないような。</p></article>]]></description>
+            <link>https://thegrid.ai/cryptech/83c87e3c-e6c1-4f07-9af3-b5dc79a8a188/index.html</link>
+            <guid isPermaLink="false">83c87e3c-e6c1-4f07-9af3-b5dc79a8a188</guid>
+            <pubDate>Sun, 06 Mar 2016 04:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3つ目の最初の投稿]]></title>
             <description><![CDATA[<article><h1>3つ目の最初の投稿</h1><p>まだ使い方が慣れないですが、慣れるともしかしたら非常に便利かも。</p></article>]]></description>
