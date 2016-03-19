@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cryptech Blog]]></title>
-        <description><![CDATA[Cryptech Blog]]></description>
+        <title><![CDATA[Cryptech Blog - under development]]></title>
+        <description><![CDATA[Cryptech Blog - under development]]></description>
         <link>https://thegrid.ai/cryptech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cryptech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c86a1512-71ad-46b5-bc32-59f3c1c66996.jpg">]]></description>
             <link>https://thegrid.ai/cryptech/e20a4a67-38cc-4628-87f9-edb128b89d23/index.html</link>
             <guid isPermaLink="false">e20a4a67-38cc-4628-87f9-edb128b89d23</guid>
-            <pubDate>Sat, 19 Mar 2016 20:08:08 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 20:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[コンテンツを増やしてみた結果]]></title>
