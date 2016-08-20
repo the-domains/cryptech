@@ -1,7 +1,18 @@
+layout_spectrum: 0.03728794143535197
+typography_spectrum: 0.24344165087677538
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.2103976767975837
+  lightness: 0.3659247774630785
+  saturation: 0.6138870790600777
+  rhythmicContrast: 0.2911227154545486
 name: Cryptech
 favicon: null
-layout_spectrum: 0.74589
-typography_spectrum: 0.7354017260950059
 title: Cryptech Blog - under development
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d8dfd8'
-    - '#bbb196'
-    - '#47191b'
-    - '#998473'
-    - '#72514c'
-  brandStrength: 0.8125
-  lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.5
 purpose: []
